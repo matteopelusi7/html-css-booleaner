@@ -11,7 +11,7 @@ header{
 #pattern{
     width: 300px;
     margin-top: 80px;
-    margin-left: 10px;
+    margin-left: 200px;
 }
 
 main{
@@ -39,6 +39,10 @@ h3, h5{
     margin-top: 20px;
 }
 
+ul{
+    padding: 15px;
+}
+
 .testo, ul{
     font-size: 18px;
     margin-top: 20px;
@@ -46,6 +50,10 @@ h3, h5{
 
 .evidenziato{
     background-color: yellow;
+}
+
+table{
+    border-spacing: 0;
 }
 
 th{
@@ -76,4 +84,9 @@ footer{
 
 .img-footer{
     margin-top: 10px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
 }
