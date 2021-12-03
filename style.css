@@ -39,3 +39,32 @@ h3, h5{
     margin-top: 20px;
 }
 
+.testo, ul{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+th{
+    color: white;
+}
+
+.prima-rigatabella{
+    background-color: #007FFF;
+}
+
+.seconda-rigatabella{
+    background-color: rgb(190, 228, 252);
+}
+
+td{
+    padding: 20px;
+}
+
+.tabella{
+    margin-top: 20px;
+}
+
