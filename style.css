@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: #1E90FF;
+    background-image: url('img/pattern.png');
+    height: 170px;
+}
+
+#pattern{
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+main{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.titolo{
+    margin-top: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+#sottotitolo{
+    color: #1E90FF;
+}
+
+h3, h5{
+    color: #A2A2A2;
+}
+
+.immagini{
+    margin-top: 20px;
+}
+
